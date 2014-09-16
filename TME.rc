@@ -1,0 +1,20 @@
+#include "inc\TorchResource.h"
+#include <windows.h>
+
+
+IDI_LOGO	ICON		"logo.ico"
+
+IDR_MENU	MENU
+BEGIN
+	POPUP "File"
+	BEGIN
+		MENUITEM "Open"		ID_FILEOPEN
+		MENUITEM "Save"		ID_FILESAVE
+		MENUITEM "Exit"		ID_FILEEXIT
+	END
+	POPUP "Edit"
+	BEGIN
+		MENUITEM "Config"	ID_CONFIGURATION
+	End
+
+END

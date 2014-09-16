@@ -1,0 +1,14 @@
+﻿Build started 16/09/2014 01:46:15.
+     1>Project "c:\Users\Julio\documents\visual studio 2012\Projects\TorchEngine\TorchEngine\TorchEngine.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Iinc /I"extern\glew-1.11.0\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"DirectXTemplatePCH.h" /Fp"Release\TorchEngine.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt src\TorchMain.cpp src\TorchWindow.cpp
+         TorchMain.cpp
+         TorchWindow.cpp
+     1>src\TorchWindow.cpp(92): error C2065: 'D3DRender' : undeclared identifier
+     1>src\TorchWindow.cpp(92): error C2227: left of '->BeginScene' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>Done Building Project "c:\Users\Julio\documents\visual studio 2012\Projects\TorchEngine\TorchEngine\TorchEngine.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.98
