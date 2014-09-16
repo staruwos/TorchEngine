@@ -1,0 +1,9 @@
+﻿Build started 16/09/2014 00:50:49.
+     1>Project "C:\Users\Julio\Documents\Visual Studio 2012\Projects\TorchEngine\TorchEngine\extern\glew-1.11.0\build\vc12\glew_static.vcxproj" on node 2 (Build target(s)).
+     1>Lib:
+         glew_static.vcxproj -> C:\Users\Julio\Documents\Visual Studio 2012\Projects\TorchEngine\TorchEngine\extern\glew-1.11.0\build\vc12\..\..\lib\Release\Win32\glew32s.lib
+     1>Done Building Project "C:\Users\Julio\Documents\Visual Studio 2012\Projects\TorchEngine\TorchEngine\extern\glew-1.11.0\build\vc12\glew_static.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11
